@@ -37,8 +37,7 @@ Observe que os índices começam em 0 (e não em 1) no Portugol.
 1. Clone o repositório: 
    git clone https://github.com/Finger-Dev/MediaAlunoMatriz.git
    
-3. Navegue até o diretório do projeto:
-   cd seu-repositorio
+3. Execute com o Portugol Studio ou Portugol Studio Web.
    
 5. Execute o programa conforme as instruções da linguagem de programação.
 
