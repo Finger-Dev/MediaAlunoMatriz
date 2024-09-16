@@ -35,7 +35,7 @@ Observe que os índices começam em 0 (e não em 1) no Portugol.
 ## Como Usar
 
 1. Clone o repositório: 
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Finger-Dev/MediaAlunoMatriz.git
    
 3. Navegue até o diretório do projeto:
    cd seu-repositorio
